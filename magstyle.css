@@ -1,0 +1,257 @@
+
+.form-style-10{
+	width:80%;
+	padding:30px;
+	margin:40px auto;
+	background: #FFF;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+}
+.form-style-10 .inner-wrap{
+	padding: 30px;
+	background: #F8F8F8;
+	border-radius: 6px;
+	margin-bottom: 15px;
+}
+.form-style-10 h1{
+	background: #2A88AD;
+	padding: 20px 30px 15px 30px;
+	margin: -30px -30px 30px -30px;
+	border-radius: 10px 10px 0 0;
+	-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+	font: normal 30px 'Bitter', serif;
+	-moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	border: 1px solid #257C9E;
+}
+.form-style-10 h1 > span{
+	display: block;
+	margin-top: 2px;
+	font: 13px Arial, Helvetica, sans-serif;
+}
+.form-style-10 label{
+	display: block;
+	font: 13px Arial, Helvetica, sans-serif;
+	color: #888;
+	margin-bottom: 15px;
+}
+.form-style-10 input[type="text"],
+.form-style-10 input[type="date"],
+
+.form-style-10 input[type="email"],
+.form-style-10 input[type="number"],
+
+.form-style-10 input[type="password"],
+.form-style-10 textarea,
+.form-style-10 select {
+	display: block;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	padding: 8px;
+	border-radius: 6px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border: 2px solid #fff;
+	box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+}
+
+.form-style-10 .section{
+	font: normal 20px 'Bitter', serif;margin-right: 30px;
+	color: #2A88AD;
+	margin-bottom: 5px;
+}
+.form-style-10 .section span {
+	background: #2A88AD;
+	padding: 5px 10px 5px 10px;
+	position: absolute;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border: 4px solid #fff;
+	font-size: 14px;
+	margin-left: -45px;
+	color: #fff;
+	margin-top: -3px;
+}
+.form-style-10 input[type="button"],
+.form-style-10 input[type="submit"]{
+	background: #2A88AD;
+	padding: 8px 20px 8px 20px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+	font: normal 30px 'Bitter', serif;
+	-moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	border: 1px solid #257C9E;
+	font-size: 15px;
+}
+.form-style-10 input[type="button"]:hover,
+.btn{
+	margin: 30px auto ;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: blue;
+    border: 1px solid #3c763d;font-size: 18px;
+    width: 10%;
+    text-align: center;
+
+
+}
+.form-style-10 .privacy-policy{
+	float: right;
+	width: 250px;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #4D4D4D;
+	margin-top: 10px;
+	text-align: right;
+}
+body {
+	font: bold 11px/1.5em Verdana;
+	}
+
+h1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+
+	}
+
+hr {
+	border:none;
+	border-top:1px solid #CCCCCC;
+	height:1px;
+	margin-bottom:25px;
+	}
+
+#tabs {
+	float:right;
+	width:100%;
+	background:#F4F7FB;
+	font-size:16px;
+	line-height:normal;
+	border-bottom:1px solid #BCD2E6;
+	}
+#tabs ul {
+	margin:0;
+	padding:10px 10px 0 50px;
+	list-style:none;
+	}
+#tabs li {
+	display:inline;
+	margin:0;
+	padding:0;
+	}
+#tabs a {
+	float:right;
+	background:url("tableft.gif") no-repeat left top;
+	margin:0;
+	padding:0 0 0 4px;
+	text-decoration:none;
+	}
+#tabs a span {
+	float:right;
+	display:block;
+	background:url("tabright.gif") no-repeat right top;
+	padding:5px 15px 4px 6px;
+	color:#627EB7;
+	}
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+/* End IE5-Mac hack */
+#tabs a:hover span {
+	color:#627EB7;
+	}
+#tabs a:hover {
+	background-position:0% -42px;
+  background-color: red;
+  border-bottom: 1px;
+	}
+#tabs a:hover span {
+	background-position:100% -42px;
+	}
+	.form2login{max-width:40%;text-align: center;
+
+		background: #FAFAFA;
+		padding: 30px;
+		margin: 100px auto;
+		box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+		border-radius: 10px;
+		border: 6px solid #305A72;
+	font-size: 16px;}
+
+	.form1{max-width: 100%;
+		background: #FAFAFA;
+		padding: 30px;
+		margin-top: 50px auto;
+		box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+		border-radius: 10px;
+		border: 6px solid #305A72;
+	font-size: 18px;}
+	.formsel{max-width: 95%;
+		background: #FAFAFA;
+		padding: 3px;
+		margin-top: 2px auto;
+			margin-bottom: : 15px auto;
+		box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.35);
+		border-radius: 5px;
+		border: 6px solid #305A72;
+	font-size: 16px;}
+
+	.table1{width: 85%;align:center;
+		background: #FAFAFA;
+		color: blue;
+		padding: 5px;
+		margin-top: 10px auto;
+		box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+		border-radius: 10px;
+		border: 6px solid #305A72;
+	font-size: 15px;}
+	th{background:navy;
+	color:white; }
+	a:hover{color: blue;
+	background: red;}
+	.formst{margin:10px auto ;width: 80%;
+		padding: 20px;
+		border-radius: 5px;
+		color: blue;
+			background: #FAFAFA;
+	border: 6px solid #305A72;
+
+		text-align: center;}
+	.astyle{  background-color:#3e8e41;
+		color: white;
+		padding: 5px;
+		font-size: 16px;
+		border: 1px;}
+
+
+select{
+font-size: 14px;
+margin: 10px auto ;
+padding: 5px;
+border-radius: 5px;
+color: white;
+background: purple;
+border: 1px solid #3c763d;
+width: 10%;
+text-align: center;
+}
